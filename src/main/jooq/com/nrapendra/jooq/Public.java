@@ -4,11 +4,11 @@
 package com.nrapendra.jooq;
 
 
+import com.nrapendra.jooq.tables.BookmarkTag;
 import com.nrapendra.jooq.tables.Bookmarks;
+import com.nrapendra.jooq.tables.Tags;
 import com.nrapendra.jooq.tables.UserPreferences;
 import com.nrapendra.jooq.tables.Users;
-import com.nrapendra.jooq.tables.BookmarkTag;
-import com.nrapendra.jooq.tables.Tags;
 
 import java.util.Arrays;
 import java.util.List;

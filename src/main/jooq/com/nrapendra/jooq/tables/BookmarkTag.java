@@ -4,9 +4,9 @@
 package com.nrapendra.jooq.tables;
 
 
+import com.nrapendra.jooq.Keys;
 import com.nrapendra.jooq.Public;
 import com.nrapendra.jooq.tables.records.BookmarkTagRecord;
-import com.nrapendra.jooq.Keys;
 
 import java.util.Arrays;
 import java.util.List;
