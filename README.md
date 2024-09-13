@@ -1,5 +1,5 @@
 # SpringBoot JOOQ Demo
-This is a sample project for spring boot and jooq
+This is a sample project for spring-boot and jooq 
 
 ```shell
 # Run tests
